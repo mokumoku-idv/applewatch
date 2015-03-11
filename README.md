@@ -27,10 +27,12 @@ GPS機能がない
 プログラムからView関連をaddできない
 バックグラウンド処理はサポートしてない
 
-# UIDesign Basics
+##UIDesign Basics
 
+## WatchKitExtension
+Watch kit Appを制御するもの
 
-# WKInterfaceController
+## WKInterfaceController
 Watch kit側の処理をコントロールするもの
 watch側では基本表示しか行わないので、実態はiOSの本体で動いてる？
 
