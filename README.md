@@ -13,9 +13,14 @@ WatchKitアプリの通常起動
 ## Notification
 * LocalかRemoteどちらも可能
 * 多分この辺りが分かりやすそう
+
 http://blog.haranicle.net/customize_notification/
 http://blog.haranicle.net/applewatch_notification/
 http://qiita.com/TECHFUND/items/dddaeb8616b053d568be
+
+### LocalとRemoteの使いどころ
+例えば、Todoリストでこの日までにやらなければという案件を作った時
+そのときが近くなったら、Local notificationで通知
 
 ## Watch kit app
 WatchKitアプリはiPhoneアプリと協調して動作
